@@ -9,3 +9,4 @@ def get_todos(filepath=Filepath):
 def write_todos(td,filepath=Filepath):
     with open(filepath, 'w') as file:
         file.writelines(td)
+        
