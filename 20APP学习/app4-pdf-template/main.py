@@ -49,7 +49,6 @@ for index, row in df.iterrows():
 # pdf.cell(w=0,h=12,txt="Hellow There!",align="L",ln=1,border=1)
 pdf.output("output.pdf")
 
-# just for commit
 
 
 
