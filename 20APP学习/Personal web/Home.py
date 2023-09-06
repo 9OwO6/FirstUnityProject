@@ -12,7 +12,7 @@ with col1:
     st.image("images/P.jpg")
 
 with col2:
-    st.title("Wang Yanghuijing")
+    st.title("Wang Yanghuijing (Leo)")
     content = """"
     Hello, I'm Wang Yanghuijing, currently pursuing a BSc in Computer Science at the University of Victoria, located in the beautiful city of Victoria, BC. I'm in my fourth year of studies, and my educational journey has been filled with exciting challenges and opportunities.
 
